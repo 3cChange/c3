@@ -1,0 +1,7 @@
+{
+//  "baseUrl": "http://localhost:8092"
+//    "baseUrl": "https://api.lfox123.com",
+//    "baseUrl": "https://api2.lfox123.com",
+    "baseUrl": "https://testapi.lfox123.com",
+//    "baseUrl": ""
+}
